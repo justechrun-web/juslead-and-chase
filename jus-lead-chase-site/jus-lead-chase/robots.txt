@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# LAUNCH: add "Sitemap: https://<confirmed-domain>/sitemap.xml" once the domain is confirmed.
